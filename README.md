@@ -32,7 +32,7 @@ Esta API simula o funcionamento de um caixa eletrônico. Ela recebe um valor de 
   }
   ```
 
-## Desafios
+## Critérios para validação
 
 1. **Tratamento de Entradas Inválidas**: Garantir que o valor inserido é um número inteiro positivo.
 2. **Eficiência na Distribuição de Cédulas**: Implementar uma lógica que sempre retorne a menor quantidade de cédulas possível.
@@ -69,7 +69,7 @@ Este projeto foi desenvolvido para simular um caixa eletrônico simples. A lógi
 
 ## Perguntas Frequentes
 ### Qual linguagem?
-Não temos preferência por linguagem. Porém, aqui utilizamos: Javascript e Python
+Não temos preferência por linguagem. Porém, aqui utilizamos: Typescript e Python
 
 ### Devo construir uma interface?
 Não é necessário desenvolver uma interface gráfica para este projeto. O foco principal da avaliação será a lógica aplicada e a robustez do código. Estamos interessados em verificar se o código está bem organizado, legível e se ele atende aos critérios estabelecidos pelos testes.
