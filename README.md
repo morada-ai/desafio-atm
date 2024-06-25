@@ -66,3 +66,16 @@ Este projeto foi desenvolvido para simular um caixa eletrônico simples. A lógi
 - Subir o código para um repositório no GitHub;
 - Incluir um README.md no repositório contendo a documentação, quais foram os principais desafios, e uma instrução de como excutar o projeto;
 - Enviar o link do repositório até o prazo determinado.
+
+## Perguntas Frequentes
+### Qual linguagem?
+Não temos preferência por linguagem. Porém, aqui utilizamos: Javascript e Python
+
+### Devo construir uma interface?
+Não é necessário desenvolver uma interface gráfica para este projeto. O foco principal da avaliação será a lógica aplicada e a robustez do código. Estamos interessados em verificar se o código está bem organizado, legível e se ele atende aos critérios estabelecidos pelos testes.
+
+### Quando vou receber meu feedback?
+Você receberá o feedback em até 15 dias após o encerramento das inscrições.
+
+### Posso realizar alguma alteração depois do prazo de encerramento?
+Não é possível realizar alterações após o prazo estabelecido. Mesmo que modificações sejam feitas após este prazo, nossa equipe avaliará apenas o último commit válido realizado antes do encerramento das inscrições.
