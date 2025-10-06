@@ -69,7 +69,7 @@ Este projeto foi desenvolvido para simular um caixa eletrônico simples. A lógi
 
 ## Perguntas Frequentes
 ### Qual linguagem?
-Não temos preferência por linguagem. Porém, aqui utilizamos: Typescript e Python
+Não temos preferência por linguagem. Porém, aqui utilizamos principalmente Typescript
 
 ### Devo construir uma interface?
 Não é necessário desenvolver uma interface gráfica para este projeto. O foco principal da avaliação será a lógica aplicada e a robustez do código. Estamos interessados em verificar se o código está bem organizado, legível e se ele atende aos critérios estabelecidos pelos testes.
